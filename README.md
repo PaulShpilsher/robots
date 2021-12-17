@@ -6,6 +6,6 @@
 4. to use issue POST to url: https://localhost:7111/Robots
 
 improvements and todos:
-1. move HttpClient code to use as an injectable service 
+1. move HttpClient code to use as an injectable service, and move setvice url from code to settings.
 2. use factory pattern to return data to client
 3. implement better error checking and handling
